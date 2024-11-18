@@ -5,8 +5,7 @@ Welcome to the **E-Library Website**! This project is a responsive online shoppi
 ## 🌟 Features
 
 - 📱 **Responsive Design**: Fully compatible with desktop and mobile devices.
-- 🛒 **Product Listings**: Display products with clear and attractive layouts.
-- 🔍 **Search Functionality**: Easily find products with a user-friendly search bar.
+- 🛒 **Book Listings**: Display books with clear and attractive layouts
 - 🎨 **Modern UI**: Sleek design with attention to detail, providing a great shopping experience.
 - ⚡ **Optimized Performance**: Fast-loading pages for seamless navigation.
 
