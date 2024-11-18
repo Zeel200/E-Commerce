@@ -31,6 +31,3 @@ Check out the live demo here: [E-Commerce Website](https://zeel200.github.io/E-C
  ┣ 📂images
  ┃ ┗ 📜product-images    # Images used in the project
  ┣ 📜index.html         # Main HTML file
-
-
-This e-Library is made with ❤️ by [Zeel200](https://github.com/Zeel200/Zeel200)
